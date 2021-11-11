@@ -1,6 +1,7 @@
 *** WooCommerce Payments Changelog ***
 
 = 3.3.0 - 2021-xx-xx =
+* Update - Updated @woocommerce/experimental package to v2.1.0.
 * Update - Updated @woocommerce/components to remove ' from negative numbers on csv files
 * Update - Avoid having invalid intervals (greater than 1 year) in subscription products.
 * Update - The subscription fee label in the transaction timeline.
